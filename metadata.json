@@ -1,0 +1,6 @@
+{
+  "name": "IoT Industrial Safety Monitoring System",
+  "description": "A complete working ESP32 simulation and IoT dashboard for industrial safety monitoring featuring MQ-2 gas, DHT22, vibration, distance, LCD, actuators, and hazard classification.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

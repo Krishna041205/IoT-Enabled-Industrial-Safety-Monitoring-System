@@ -1,0 +1,4 @@
+# Wokwi Library Dependencies for IoT Industrial Safety Monitoring System
+DHT sensor library
+LiquidCrystal
+Adafruit Unified Sensor
